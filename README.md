@@ -1,4 +1,4 @@
-# sql-ems-tracker
+# Employee Mgmt System Tracker (sql-ems-tracker)
 Employee Management System Tracker using MySQL and Node.js
 
 <p align="center">
