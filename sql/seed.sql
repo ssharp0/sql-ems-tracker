@@ -27,8 +27,8 @@ VALUES ('John', 'Doe', 1, null),
 ('Carl', 'Smith', 3, 2),
 -- Engineering
 ('Jack', 'Doe', 4, null),
-('Jill', 'Notting', 5, 4),
-('Charlie', 'Kay', 6, 5),
+('Jill', 'Jackie', 5, 4),
+('Charles', 'Want', 6, 5),
 -- Finance
 ('Jenny', 'Doe', 7, null),
 ('Jill', 'Notting', 8, 7),
