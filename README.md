@@ -62,19 +62,25 @@ And, the suer will also be able to view the total utilized budget by department 
 (MySQL local instance database stores the data - showing the SQL seed data as well as updates to database using command line)
 
 Menu Prompt (user start):
+
 ![](/assets/img/menu-prompt.png)
 
 View Departments, Roles, and Employees (note: all seed data is ficticious):
+
 ![](/assets/img/view-dept-roles-employees.png)
 
 Add Departments, Roles, and Employees (note: all user provided data is ficticious)
+
 ![](/assets/img/add-dept-roles-employees.png)
 
 Update Role and Manager (note: all user provided data is ficticious)
+
 ![](/assets/img/update-role-manager.png)
 
 View Budget (note: all user provided data is ficticious)
+
 ![](/assets/img/view-budget-by-dept.png)
 
 Delete Departments, Roles, and Employees (note: all user provided data is ficticious)
+
 ![](/assets/img/delete-dept-role-employee.png)
