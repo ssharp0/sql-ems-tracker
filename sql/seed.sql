@@ -27,7 +27,9 @@ VALUES ('John', 'Doe', 1, null),
 ('Carl', 'Smith', 3, 2),
 -- Engineering
 ('Jack', 'Doe', 4, null),
+-- screenshot will show Jill Notting instead of Jill Jackie for this particular employee under engineering as it was originally the seed data used, but changed names here for better clarity as same name already existed in another dept.
 ('Jill', 'Jackie', 5, 4),
+-- screenshot will show Charlie Kay instead of Charles Want for this particular employee under engineering as it was originally the seed data used, but changed names here for better clarity as same name already existed in another dept.
 ('Charles', 'Want', 6, 5),
 -- Finance
 ('Jenny', 'Doe', 7, null),
