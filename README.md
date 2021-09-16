@@ -16,6 +16,7 @@ Employee Management System Tracker using MySQL and Node.js
 ### Github: https://github.com/ssharp0/sql-ems-tracker 
 
 Gif video demo:
+
 ![](/assets/img/sql-ems-video.gif)
 
 ## Table of Contents
